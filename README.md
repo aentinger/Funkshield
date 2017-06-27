@@ -1,15 +1,26 @@
 LXRobotics P6 Funkshield
 ==============
 
-![LXRobotics P6 Funkshield](https://www.lxrobotics.com/wp-content/uploads/mz_af_p6_side_small.jpg)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Weitere Informationen / Further Information
+# Image
 
-* **DE:** https://www.lxrobotics.com/produkte/arduino-shields/funkshield
-* **EN:** https://www.lxrobotics.com/en/products/arduino-shields/radio-shield
+![LXRobotics P6 Funkshield](https://raw.githubusercontent.com/lxrobotics/Funkshield/master/images/radio-shield-side-small.jpg)
 
-## Lizenz / License
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+# Description
 
-* **DE:** http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
-* **EN:** http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+The Radio Shield provides an easy way to enable wireless communication between two or more Arduinos. Additionally the Radioshield has a Childboard connector socket which allows the Radio Shield to be further upgraded with sensors/actuators, e.g. a gas sensor, temperature sensor or a relay switch. A possible application would be temperature monitoring of all rooms of a house/appartment and performing an efficient regulation of the heating based on the measured data. For an quick and easy start, a open source Arduino library with sample programs is available.
+
+**Features**
+
+* Enables easy wireless communication with other Arduinos
+* Usage of the popular RFM12B HF-Transceiver
+* Frequency range: 433 MHz ISM-Band
+* Childboard-Base for integration of further LXRobotics Childboards (e.g. gas sensor, temperature sensor, relay switch)
+* Antenna with 2dbi gain
+* Output power is selectable in 3 db steps ranging from 0 dbm to -21 dbm
+* Third-Party-Arduino Library available for control with example programms
+
+# Video
+
+[![VIDEO1](http://img.youtube.com/vi/mx7psw9cC3o/0.jpg)](https://www.youtube.com/watch?v=mx7psw9cC3o "LXRobotics Funkshield")
